@@ -1,10 +1,10 @@
 [submodule "notebin-service"]
     path = notebin-service
-    url = https://github.com/sauce-chili/NoteBin-Service.git
+    url = https://github.com/Vacobi/NoteBin-Service.git
     branch = master
 [submodule "user-service"]
     path = user-service
-    url = https://github.com/sauce-chili/NoteBin-UserService.git
+    url = https://github.com/Vacobi/NoteBin-UserService.git
     branch = master
 [submodule "frontend"]
 	path = frontend
